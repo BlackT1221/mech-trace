@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038688347783",
+    "project_id": "mech-trace",
+    "storage_bucket": "mech-trace.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038688347783:android:f25ff93d00a10aa3163a22",
+        "android_client_info": {
+          "package_name": "com.example.mech_trace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwlMY25B1_Wp0ifozMIy6aHScWC1-KOL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
